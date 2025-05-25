@@ -31,8 +31,7 @@ cd remind-me-later
 
 python -m venv env
 
-# For Windows PowerShell
-.\env\Scripts\activate
+.\env\Scripts\activate     ( For Windows PowerShell)
 
 3. Install Dependencies:
 
